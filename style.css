@@ -3,13 +3,18 @@ body {
 	background-color: #F6DFD6;
 }
 h1 {
-    color: #8D99A2;
+    color: #2F3846;
+    text-align: left;
+    background-color:#E9AAA9;
+    padding:50px;
 }
 a {
-    color: #8D99A2;
+    color: #406E8E;
 }
-h4 {
+body {
     color: #8D99A2;
+    text-align:left;
+    font-size: 20px;
 }
 p {
     color: #8D99A2;
@@ -19,6 +24,7 @@ li {
 }
 img {
     height: 300px;
+    width: 300px;
     border-color: #F42272;
     border-width: thin;
     border-style: dotted;
