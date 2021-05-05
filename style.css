@@ -1,0 +1,27 @@
+body {
+	padding:20px;
+	background-color: #F6DFD6;
+}
+h1 {
+    color: #8D99A2;
+}
+a {
+    color: #8D99A2;
+}
+h4 {
+    color: #8D99A2;
+}
+p {
+    color: #8D99A2;
+}
+li {
+    color: #8D99A2;
+}
+img {
+    height: 300px;
+    border-color: #F42272;
+    border-width: thin;
+    border-style: dotted;
+}
+    
+
